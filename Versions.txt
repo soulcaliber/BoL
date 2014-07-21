@@ -1,7 +1,7 @@
 "ezEvade" : "6.4"
 "ezLastHit" : "2.34"
 "ezCollision" : "1.0"
-"ezCarry" : "2.72"
+"ezCarry" : "2.9"
 "ezLibrary" : "1.34"
 "spellDmg" : "1.32"
 "VPrediction" : "2.0"
