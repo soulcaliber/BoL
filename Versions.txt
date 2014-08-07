@@ -1,5 +1,5 @@
 "ezEvade" : "6.6"
-"ezLastHit" : "2.34"
+"ezLastHit" : "2.6"
 "ezCollision" : "1.0"
 "ezCarry" : "2.9"
 "ezLibrary" : "1.34"
