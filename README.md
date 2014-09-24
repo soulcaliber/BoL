@@ -1,1 +1,1 @@
-For donation, please go to [www.yomieproductions.com] (www.yomieproductions.com) or [here](www.yomieproductions.com.s3-website-us-east-1.amazonaws.com) if the link doesn't work
+For donation, please go to [www.yomieproductions.com] (http://www.yomieproductions.com) or [here](http://www.yomieproductions.com.s3-website-us-east-1.amazonaws.com) if the link doesn't work
