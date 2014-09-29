@@ -5,6 +5,9 @@
 .\___| ___| _____| \_/  \__,_| \__,_| \___
 .                                    v. 6.82
 
+Visit www.yomieproductions.com for more information.
+Or www.yomieproductions.com.s3-website-us-east-1.amazonaws.com.
+
 Text Drawing By: Echo
 --]]
 
